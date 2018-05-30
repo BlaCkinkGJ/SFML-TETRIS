@@ -1,4 +1,4 @@
 # SFML_TETRIS
 Making Tetris Using SFML
 
-This program only available in windows.
+This program is only available in windows.
